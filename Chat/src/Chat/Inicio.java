@@ -1,4 +1,4 @@
-package socketsMulticast.Chat;
+package Chat;
 
 public class Inicio {
 
